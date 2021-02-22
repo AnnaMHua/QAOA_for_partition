@@ -1,4 +1,4 @@
-#QAOA solver for number partitioning problem
+# QAOA solver for number partitioning problem
 Author: Meng Hua
 
 ## Introduction
@@ -11,6 +11,6 @@ For example, if ```S = {4, 5, 6, 7, 8}```, then one possible partition would be 
 The sums of these two subsets are 12 and 18 respectively, giving a difference of 6. The optimal solution is ```S1 = {4, 5, 6}```, ```S2 = {7, 8}```, since the sum of both of these subsets is 15, and hence the difference is zero.
 
 ## Modules
-* 
+* ```QAOA.py```
 
 
