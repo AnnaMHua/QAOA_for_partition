@@ -15,6 +15,11 @@ The sums of these two subsets are 12 and 18 respectively, giving a difference of
 * ```NumberPartition.ipynb```: example and tutorial notebook with result analysis.
 * ```sample.partition```: input file of a set of numbers. Used by ```NumberPartition.ipynb```
 
-## Requirements
+## Package requirement
+* ```qiskit```
+* ```scipy```
+* ```numpy```
+* ```matplotlib```
+
 
 
