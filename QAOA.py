@@ -13,6 +13,7 @@ class partitionQAOA:
 
     def __init__(self, number_list, layer, backend = "statevector_simulator", NUM_SHOTS = 1000, method = 'COBYLA'):
         '''
+        QAOA for number partitioning.
         :param number_list: a set of numbers to be partitioned
         :param layer: number of QAOA layers
         :param backend: the backend used for quantum circuit
